@@ -47,6 +47,10 @@
         {
             "command": "closePane",
             "keys": "ctrl+w"
+        },
+        {
+            "command": "toggleFocusMode",
+            "keys": "alt+f"
         }
     ],
     "copyFormatting": "none",
